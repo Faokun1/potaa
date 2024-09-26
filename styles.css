@@ -43,7 +43,6 @@ section {
     border: 5px solid #ffccd5; 
 }
 
-/* SNSリンク */
 a {
     color: #ff6f91;
     text-decoration: none;
@@ -53,7 +52,6 @@ a:hover {
     color: #ff8aab;
 }
 
-/* フッター */
 footer {
     background-color: #ffe0e9;
     padding: 10px;
